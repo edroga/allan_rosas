@@ -1,2 +1,2 @@
 # allan_rosas
-ITAM seminario
+ITAM SMAE
